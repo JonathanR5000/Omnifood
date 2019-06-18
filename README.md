@@ -1,2 +1,2 @@
 # Omnifood_website
-My first responsive web design project for a fictional company called Omnifood
+My first responsive web design project for a fictional company called Omnifood designed by Jonas Schmedtmann
