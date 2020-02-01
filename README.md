@@ -2,6 +2,6 @@
 My first responsive web design project for a fictional company called Omnifood designed by Jonas Schmedtmann
 
 
-#Omnifood Tour
+# Omnifood Tour
 
 ![gif](Omnifood_tour.gif)
