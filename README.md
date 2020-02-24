@@ -8,3 +8,7 @@ Omnifood is a fictional food delivery company, that provides food delivery servi
 # <h4>Omnifood Widescreen Tour:</h4>
 
 ![gif](Omnifood_tour.gif)
+
+# <h4>Omnifood Smartphone Tour:</h4>
+
+![gif](Omnifood_smartphone_tour.gif)
